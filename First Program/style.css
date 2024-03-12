@@ -1,0 +1,22 @@
+h2{
+    background-color: bisque;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    border: 1px solid black;
+    margin: 5px;
+    text-align: center;
+}
+
+.para{
+    color: #000;
+    background-color: aqua;
+    font-size: large;
+    font-family: cursive;
+}
+
+.newClass{
+    color: red;
+}
